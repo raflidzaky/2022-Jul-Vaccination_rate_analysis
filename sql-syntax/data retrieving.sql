@@ -1,4 +1,4 @@
--- Store current cumulative vaccination
+-- Store current cumulative vaccination using CTE
 WITH c_vaccine
 AS (
   SELECT 
